@@ -1,6 +1,6 @@
 /* to run this script,
   1) run 'mongo' and type 'load("people-collection.js")'
-  2) run in terminal/cmd: 'mongo localhost:27017/israel people-collection.js'  
+  2) run in terminal/cmd: 'mongo israel people-collection.js'  
 */
 db.people.insertMany([
     {
